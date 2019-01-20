@@ -40,7 +40,7 @@ INSERT INTO Alumni  (AlumniEmail, firstName, lastName, formerStudentID) VALUES (
 
 -- Alumni_Home
 
-INSERT INTO Alumni_Home (AlumniEmail, homeAddress, homeCity, homeState, homeZIP, homePhone) VALUES ("Anthony.Jaghab@somewhere.com", "414 Hunt Place", "West Hempstead", "NY", 11552, "516-555-5551");
+INSERT INTO Alumni_Home (AlumniEmail, homeAddress, homeCity, homeState, homeZIP, homePhone) VALUES ("Antony.Jaghab@somewhere.com", "414 Hunt Place", "West Hempstead", "NY", 11552, "516-555-5551");
 INSERT INTO Alumni_Home (AlumniEmail, homeAddress, homeCity, homeState, homeZIP, homePhone) VALUES ("Jupraj.Singh@somewhere.com", "201 Valley Place", "West Hempstead", "NY", 11552, "516-555-5552");
 INSERT INTO Alumni_Home (AlumniEmail, homeAddress, homeCity, homeState, homeZIP, homePhone) VALUES ("Andre.King@somewhere.com", "204 Strong Place", "West Hempstead", "NY", 11552, "516-555-5553");
 
