@@ -1,5 +1,5 @@
 -- Show all students ordered by last name in ascendent way.
-SELECT * FROM Alumni ORDER BY lastName ASC
+SELECT * FROM Student ORDER BY lastName ASC
 -- Write a query to list all the students living in the Whitman dorm.
 SELECT * FROM Student WHERE dormName = "Whitman";
 -- Write a query to list the number of students assigned to each faculty advisor.
